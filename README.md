@@ -1,0 +1,1 @@
+# Ex.No-12-Design-an-application-that-draws-basic-graphical-primitives-on-the-screen.
